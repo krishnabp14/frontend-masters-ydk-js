@@ -1,1 +1,1 @@
-# frontend-masters-ydk-js
+# frontend-masters - You don't know JS course :) 
