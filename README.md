@@ -1,1 +1,1 @@
-# frontend-masters - You don't know JS course :) 
+# Frontend-masters - You don't know JS course :) 
